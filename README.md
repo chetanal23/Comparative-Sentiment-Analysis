@@ -57,7 +57,6 @@ The goal is to benchmark "state-of-the-art" Transformer models against tradition
 The notebook generates the following deliverables:
 * **F1-Score Comparison Bar Chart:** Visualizing the performance gap between models.
 * **Confusion Matrices:** Heatmaps showing True Positives/Negatives for each model.
-* **Training History:** Line plots of Loss and Accuracy over epochs.
 
 ## 🤝 Contribution
 Feel free to fork this repo and submit Pull Requests to add more models (e.g., RoBERTa, DistilBERT) or improve the preprocessing pipeline.
